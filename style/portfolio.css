@@ -118,3 +118,7 @@ p {
   padding:30px;
   
 }
+.headshot{
+  border-radius:10px;
+  max-width:  80%;
+}
