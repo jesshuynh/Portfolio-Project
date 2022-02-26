@@ -132,6 +132,7 @@ p {
   font-family: var(--default-font-family);
   line-height: 1.5;
   margin: 20px 0 0;
+  font-weight: 500;
 }
 .content p {
   font-size: 14px;
