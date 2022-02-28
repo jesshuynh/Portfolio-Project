@@ -120,7 +120,7 @@ p {
   font-size: 18px;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 10px 20px;
 }
 
 .content {
@@ -143,4 +143,14 @@ p {
 }
 .content img {
   max-height: 240px;
+}
+.logo {
+  max-width: 50px;
+}
+.active {
+  color: var(--primary-button-color) !important;
+  font-weight: bold !important;
+}
+.background-nav {
+  background-color: var(--primary-bg-color);
 }
