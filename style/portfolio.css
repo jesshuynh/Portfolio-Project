@@ -211,3 +211,13 @@ footer .contact-button{
 footer .contact-box p{
   margin:0;
 }
+.headshot{
+  max-height:550px!important;
+}
+.weather-project{
+  background-color:#9ca38e;
+}
+.open-source-link{
+  text-decoration: none;
+  color:var(--primary-button-color);
+}
